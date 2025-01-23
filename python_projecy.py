@@ -1,7 +1,7 @@
 import os
 from getpass import getpass
 import psycopg2
-# from psycopg2 import sql
+
 from decouple import config
 
 
